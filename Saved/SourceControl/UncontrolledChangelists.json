@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/UI/WB_Main.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/UI/Restart.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/UI/HealthPack.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/UI/Collectable.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/UI/Score.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/UI/ScoreIndicator.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/LearningKit_Robots/AIRobots/BP_Shooter.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/LearningKit_Robots/AIRobots/BP_Projectile.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/LearningKit_Robots/AIRobots/DamagePlate.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/LearningKit_Robots/AIRobots/BP_Pursuer.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/LearningKit_Robots/AIRobots/DistanceThreshold.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/LearningKit_Robots/AIRobots/EAIState.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/LearningKit_Robots/AIRobots/Pursur_AIController.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/Blade/Blade.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/LearningKit_Robots/AIRobots/BP_saber.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/UI/Dead.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/UI/Win.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/LearningKit_Robots/AIRobots/WinPlate.uasset",
+				"C:/Users/14012/Desktop/mp2/UnrealLearningKit/Content/UI/WBP_Restart.uasset"
+			]
+		}
+	]
+}
